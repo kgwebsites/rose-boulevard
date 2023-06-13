@@ -1,5 +1,5 @@
 {
-  "name": "astro-boilerplate",
+  "name": "rose-boulevard",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -56,5 +56,5 @@
   "volta": {
     "node": "16.15.1"
   },
-  "author": "Ixartz (https://github.com/ixartz)"
+  "author": "Kyle Goss (https://github.com/kgwebsites)"
 }
